@@ -4,7 +4,7 @@
 
 如果您没有虚拟主机和域名，可以通过申请freenom免费域名+000webhost免费空间搭建you2php。
 具体教程：
-https://github.com/pigmanidea/you2php-000webhost
+https://github.com/wangxiaoke123/you2php-000webhost
 
 如果需要切换国家功能，请使用 https://github.com/hahadaba/YOU2PHP-GL-SELECTOR
 
